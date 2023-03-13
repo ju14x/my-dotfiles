@@ -1,13 +1,17 @@
 # dotfiles
 
-My system dotfiles, managed by [dotdrop](https://github.com/deadc0de6/dotdrop)
+My system dotfiles, managed by [dotdrop](https://github.com/deadc0de6/dotdrop).
 
 ## Installation & Usage
 
-```sh
-./dotdrop.sh --help
-```
+Install the dotfiles:
 
 ```sh
 ./dotdrop.sh install
+```
+
+More commands:
+
+```sh
+./dotdrop.sh --help
 ```
