@@ -13,6 +13,4 @@ profiles:
   main:
     dotfiles:
     - f_zshrc
-  Ryzen7:
-    dotfiles:
     - f_starship.toml
