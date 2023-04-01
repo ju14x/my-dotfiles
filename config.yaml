@@ -12,5 +12,4 @@ dotfiles:
 profiles:
   main:
     dotfiles:
-    - f_zshrc
-    - f_starship.toml
+    - ALL
