@@ -6,7 +6,13 @@ dotfiles:
   f_zshrc:
     src: zshrc
     dst: ~/.zshrc
+  f_starship.toml:
+    src: config/starship.toml
+    dst: ~/.config/starship.toml
 profiles:
   main:
     dotfiles:
     - f_zshrc
+  Ryzen7:
+    dotfiles:
+    - f_starship.toml
