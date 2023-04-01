@@ -13,6 +13,6 @@ dotfiles:
     src: gitconfig
     dst: ~/.gitconfig
 profiles:
-  main:
+  ju:
     dotfiles:
     - ALL
