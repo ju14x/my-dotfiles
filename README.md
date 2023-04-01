@@ -6,7 +6,7 @@ My system dotfiles, managed by [dotdrop](https://github.com/deadc0de6/dotdrop).
 
 
 ```sh
-./dotdrop.sh install -p main
+./dotdrop.sh install -p ju
 ```
 
 More commands:
