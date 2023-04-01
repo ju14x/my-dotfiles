@@ -9,6 +9,9 @@ dotfiles:
   f_starship.toml:
     src: config/starship.toml
     dst: ~/.config/starship.toml
+  f_gitconfig:
+    src: gitconfig
+    dst: ~/.gitconfig
 profiles:
   main:
     dotfiles:

@@ -1,0 +1,10 @@
+[user]
+	name = Juliana Machado
+	email = jfcaiado@hotmail.com
+	signingkey = 5FD3D1D8883D3642
+[core]
+	pager = cat
+[pager]
+	diff = less -FX
+[init]
+	defaultBranch = main
