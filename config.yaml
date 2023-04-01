@@ -7,6 +7,6 @@ dotfiles:
     src: zshrc
     dst: ~/.zshrc
 profiles:
-  Ryzen7:
+  main:
     dotfiles:
     - f_zshrc
