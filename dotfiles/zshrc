@@ -28,7 +28,7 @@ alias nano='nano --linenumbers'
 alias ipy='ipython'
 alias btm='btm --color=gruvbox'
 alias k=kubectl
-alias dotdrop='~/works/my-dotfiles/dotdrop.sh'
+alias dotdrop='~/my-dotfiles/dotdrop.sh --cfg=~/my-dotfiles/config.yaml'
 
 # paths
 export PATH="$HOME/.local/bin:$PATH"
