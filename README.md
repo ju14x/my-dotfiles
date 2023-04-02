@@ -10,11 +10,11 @@ If not cloning into the home directory (`~`), change the dotdrop alias in `.zshr
 # submodule installation
 cd my-dotfiles
 pip3 install --user -r dotdrop/requirements.txt
-dotdrop install -p ju
+./dotdrop install -p ju
 ```
 
 More commands:
 
 ```sh
-dotdrop --help
+./dotdrop --help
 ```
